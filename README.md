@@ -7,3 +7,5 @@ for crawling process, you can request twitter API in official twitter developer 
 Data that processed have annotation to positive and negative sentiment, you can annotate by manual annotation or using annotation tools ( i recommend doccano that you can find on GitHub) 
 
 ipyb file include pre-processing data text.
+
+also, you can reach me on LinkedIn inkedin.com/in/nurul-rezki-170783205/
