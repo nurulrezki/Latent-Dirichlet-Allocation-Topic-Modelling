@@ -8,4 +8,4 @@ Data that processed have annotation to positive and negative sentiment, you can 
 
 ipyb file include pre-processing data text.
 
-also, you can reach me on LinkedIn inkedin.com/in/nurul-rezki-170783205/
+also, you can reach me on LinkedIn linkedin.com/in/nurul-rezki-170783205/
